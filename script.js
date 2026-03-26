@@ -271,7 +271,7 @@ function checkCoverage() {
     if (isCovered) {
         coverageResult.innerHTML = `
             <span style="color: var(--success);">
-                <i class="fas fa-check-circle"></i> ✅ Great news! NexusWave is available in ${locationInput.value.trim()}!
+                <i class="fas fa-check-circle"></i> ✅ Great news! JustusWave is available in ${locationInput.value.trim()}!
             </span>
             <br><small style="color: var(--gray-text);">Contact us to get connected within 24 hours.</small>
         `;
